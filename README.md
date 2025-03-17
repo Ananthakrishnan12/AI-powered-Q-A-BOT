@@ -44,6 +44,6 @@ streamlit run app.py
 3. Copy the **public URL** provided by ngrok and open it in a browser.
 
 ## 🎥 Demo
-![Chatbot Demo](assets/demo.gif)
+![Chatbot Demo](https://github.com/Ananthakrishnan12/AI-powered-Q-A-BOT/blob/main/Demo.gif)
 
 
