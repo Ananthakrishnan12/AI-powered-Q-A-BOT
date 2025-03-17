@@ -1,4 +1,4 @@
-# 🦥 Llama 2 AI Chatbot
+# AI-Powered Q&A Chatbot:
 
 Llama 2 AI Chatbot is a conversational AI powered by Meta's Llama 2 model, integrated with LangChain and Streamlit. This chatbot allows users to interact with the model in real time via a web interface.
 
@@ -42,5 +42,8 @@ streamlit run app.py
    ngrok http 8501
    ```
 3. Copy the **public URL** provided by ngrok and open it in a browser.
+
+## 🎥 Demo
+![Chatbot Demo](assets/demo.gif)
 
 
